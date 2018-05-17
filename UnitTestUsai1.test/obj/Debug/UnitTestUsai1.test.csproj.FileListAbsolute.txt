@@ -1,0 +1,2 @@
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\UnitTestUsai1.test\obj\Debug\UnitTestUsai1.test.csprojAssemblyReference.cache
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\UnitTestUsai1.test\obj\Debug\UnitTestUsai1.test.csproj.CoreCompileInputs.cache

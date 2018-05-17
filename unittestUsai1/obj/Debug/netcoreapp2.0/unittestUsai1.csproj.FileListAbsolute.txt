@@ -1,0 +1,9 @@
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\obj\Debug\netcoreapp2.0\unittestUsai1.csprojAssemblyReference.cache
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\obj\Debug\netcoreapp2.0\unittestUsai1.csproj.CoreCompileInputs.cache
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\obj\Debug\netcoreapp2.0\unittestUsai1.AssemblyInfoInputs.cache
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\obj\Debug\netcoreapp2.0\unittestUsai1.AssemblyInfo.cs
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\bin\Debug\netcoreapp2.0\unittestUsai1.deps.json
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\bin\Debug\netcoreapp2.0\unittestUsai1.dll
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\bin\Debug\netcoreapp2.0\unittestUsai1.pdb
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\obj\Debug\netcoreapp2.0\unittestUsai1.dll
+C:\Users\usai\Documents\Visual Studio 2017\Projects\unittestUsai1\unittestUsai1\obj\Debug\netcoreapp2.0\unittestUsai1.pdb
